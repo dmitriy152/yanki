@@ -8,7 +8,7 @@ function FooterUseful() {
         <ul className="footer__company__list">
             <li className="footer__item"><Link to="/Page/Delivery/Delivery">Оплата и доставка</Link></li>
             <li className="footer__item"><Link to="/Page/Refund/Refund">Условия возврата</Link></li>
-            <li className="footer__item"><Link>Бонусная система</Link></li>
+            <li className="footer__item"><Link to="/Page/PesonalAccount/PersonalAccount">Бонусная система</Link></li>
         </ul>
     </div>
   );

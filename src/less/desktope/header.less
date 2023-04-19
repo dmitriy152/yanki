@@ -105,11 +105,45 @@
         width: 190px;
         transition: all 0.3s ease-in-out;
     }
+    
     .navigation__item-select {
         color: #E0BEA2;
     }
     .header__account__item  {
         cursor: pointer;
+    }
+    .account__search {
+        position: relative;
+        .search__icon {
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+        }
+        .search__input {
+            position: absolute;
+            right: 30px;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 0px;
+            height: 40px;
+            background: transparent;
+            border: 0.5px solid transparent;
+            border-radius: 20px;
+            transition: all 0.3s ease-out;
+            font-weight: 300;
+            font-size: 16px;
+            line-height: 19px;
+            color: #252525;
+            cursor: default;
+        }
+        .search__input-active {
+            background-color: #FFFFFF;
+            padding: 10px 20px;
+            width: 300px;
+            height: 40px;
+            border: 0.5px solid #E0BEA2;
+            cursor: auto;
+        }
     }
 }
 .header-active {
