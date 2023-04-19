@@ -1,0 +1,74 @@
+.delivery {
+    padding: 105px 150px 179px 150px;
+    background-color: #fff;
+    .delivery__title {
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 23px;
+        color: #252525;
+        margin: 0px 0px 20px 0px;
+    }
+    .delivery__info {
+        display: flex;
+        justify-content: space-between;
+    }
+    .info__card {
+        width: 550px;
+        margin: 0px 0px 40px 0px;
+    }
+    .card__subtitle {
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 20px;
+        color: #252525;
+        margin: 0px 0px 10px 0px;
+    }
+    .card__list {
+        
+    }
+    .card__item {
+        margin: 0px 0px 5px 0px;
+        padding: 0px 0px 0px 12px;
+        position: relative;
+    }
+    .card__item:last-child{
+        margin: 0px;
+    }
+    .card__item::after {
+        content: "•";
+        position: absolute;
+        left: 2px;
+        top: 9px;
+        transform: translateY(-50%);
+    }
+    .delivery__steps {
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 20px;
+        color: #252525;
+        margin: 0px 0px 25px 0px;
+    }
+    .steps__list {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .steps__item {
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 20px;
+        color: #252525;
+        position: relative;
+        display: flex;
+        align-items: center;
+    }
+    .step__one, .step__two {
+        max-width: 267px;
+    }
+    .step__three {
+        width: 550px;
+    }
+    .step__item__icon {
+        margin: 0px 15px 0px 0px;
+    }
+}
