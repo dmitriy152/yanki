@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yanki/static/css/main.6c7af519.css",
-    "main.js": "/yanki/static/js/main.9010e810.js",
+    "main.css": "/yanki/static/css/main.7c766250.css",
+    "main.js": "/yanki/static/js/main.71896891.js",
     "static/media/cover_png_2.png": "/yanki/static/media/cover_png_2.b5a2bd01ade000a9cc2a.png",
     "static/media/cover_png_3.png": "/yanki/static/media/cover_png_3.f55344d498df32591a34.png",
     "static/media/cover_png_1.png": "/yanki/static/media/cover_png_1.1d511318b4e0e3c2ad75.png",
@@ -9,9 +9,12 @@
     "static/media/coat.png": "/yanki/static/media/coat.07af7475af3dff45a938.png",
     "static/media/fur.png": "/yanki/static/media/fur.ddc21f742dd4295ad744.png",
     "static/media/jacket.png": "/yanki/static/media/jacket.80e37acf177c0db1b7d6.png",
+    "static/media/white_park_back.png": "/yanki/static/media/white_park_back.a9383942f503c1b78a28.png",
     "static/media/blue__park.png": "/yanki/static/media/blue__park.2d1a450adcc6f08e98c5.png",
     "static/media/blue__coat.png": "/yanki/static/media/blue__coat.5bceb76ec01d5c7c5c64.png",
     "static/media/white_park.png": "/yanki/static/media/white_park.72088795d4cae28651e2.png",
+    "static/media/blueCoatBack.webp": "/yanki/static/media/blueCoatBack.ad9e4ea0e5efffd86b7b.webp",
+    "static/media/fur_back.webp": "/yanki/static/media/fur_back.0144ed0ef4787b2abd5a.webp",
     "static/media/step3.svg": "/yanki/static/media/step3.b4a9f1a1f46ef0a28532a77abf417ffa.svg",
     "static/media/inst.svg": "/yanki/static/media/inst.85854418c7285f7ef131b350a1f27637.svg",
     "static/media/step2.svg": "/yanki/static/media/step2.4287992ca0571562c6ba7d9a632fede9.svg",
@@ -28,11 +31,11 @@
     "index.html": "/yanki/index.html",
     "static/media/clock.svg": "/yanki/static/media/clock.f505e7fb18d1aca9bb05a623eb3c561d.svg",
     "static/media/arrow_duwn.svg": "/yanki/static/media/arrow_duwn.7d5cbb5b166f93de6ec9bfb19fc5412c.svg",
-    "main.6c7af519.css.map": "/yanki/static/css/main.6c7af519.css.map",
-    "main.9010e810.js.map": "/yanki/static/js/main.9010e810.js.map"
+    "main.7c766250.css.map": "/yanki/static/css/main.7c766250.css.map",
+    "main.71896891.js.map": "/yanki/static/js/main.71896891.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c7af519.css",
-    "static/js/main.9010e810.js"
+    "static/css/main.7c766250.css",
+    "static/js/main.71896891.js"
   ]
 }
