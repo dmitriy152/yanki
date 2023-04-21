@@ -50,4 +50,98 @@
             margin: 0px 5px 0px 0px;
         }
     }
+    .cards__list {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .catalod__card {
+        width: 310px;
+        position: relative;
+        margin: 0px 15px 30px 0px;
+    }
+    .catalod__card:nth-child(3n) {
+        margin: 0px 0px 30px 0px;
+    }
+    .card__img {
+        width: 310px;
+        height: 360px;
+        object-fit: cover;
+        margin: 0px 0px 15px 0px;
+    }
+    .card__info {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .card__title {
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: center;
+        color: #252525;
+        margin: 0px 0px 5px 0px;
+    }
+    .card__price {
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 19px;
+        text-align: center;
+        color: #252525;
+        margin: 0px 0px 5px 0px;
+    }
+    .card__size {
+        display: flex;
+        align-items: center;
+        font-weight: 300;
+        font-size: 16px;
+        line-height: 19px;
+        text-transform: uppercase;
+        text-align: center;
+        color: rgba(37, 37, 37, 0.5);
+        margin: 0px 0px 5px 0px;
+        cursor: pointer;
+        transition: 0.3s ease-in-out;
+    }
+    .size__item {
+        margin: 0px 5px 0px 0px;
+    }
+    .size__item:hover {
+        color: rgba(37, 37, 37, 1);
+    }
+    .size__item:last-child {
+        margin: 0px;
+    }
+    .card__color{
+        display: flex;
+    }
+    .color_circle {
+        width: 14px;
+        height: 14px;
+        border: 0.3px solid #252525;
+        border-radius: 50%;
+        cursor: pointer;
+        margin: 0px 5px 0px 0px;
+    }
+    .color_circle:last-child {
+        margin: 0px;
+    }
+    .card__favorite {
+        position: absolute;
+        top: 0px;
+        right: 0px;
+        border: none;
+        background: #E0BEA2;
+        width: 40px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        border-radius: 0px 0px 0px 20px;
+        transition: all 0.3s ease-in-out;
+        img {
+            width: 15px;
+            height: 15px;
+        }
+    }
 }

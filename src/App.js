@@ -25,7 +25,7 @@ function App() {
         <Router>
           <Header load = {load} />
             <Routes>
-                <Route exact path="/Page/New/New.jsx" element={<New load={load} setLoad={setLoad} />}/>
+                <Route index path="/Page/New/New.jsx" element={<New load={load} setLoad={setLoad} />}/>
                 <Route path="/Page/Catalog/Catalog" element={<Catalog/>}/>
                 <Route path="/Page/AboutUs/AboutUs" element={<AboutUs/>}/>
                 <Route path="/Page/Refund/Refund" element={<Refund/>}/>
