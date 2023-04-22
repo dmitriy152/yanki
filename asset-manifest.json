@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/yanki/static/css/main.7c766250.css",
-    "main.js": "/yanki/static/js/main.71896891.js",
+    "main.css": "/yanki/static/css/main.abae7f5d.css",
+    "main.js": "/yanki/static/js/main.c8f19ba8.js",
     "static/media/cover_png_2.png": "/yanki/static/media/cover_png_2.b5a2bd01ade000a9cc2a.png",
     "static/media/cover_png_3.png": "/yanki/static/media/cover_png_3.f55344d498df32591a34.png",
     "static/media/cover_png_1.png": "/yanki/static/media/cover_png_1.1d511318b4e0e3c2ad75.png",
     "static/media/park.png": "/yanki/static/media/park.a313ead50cb8ade1305d.png",
     "static/media/coat.png": "/yanki/static/media/coat.07af7475af3dff45a938.png",
-    "static/media/fur.png": "/yanki/static/media/fur.ddc21f742dd4295ad744.png",
+    "static/media/fur.png": "/yanki/static/media/fur.fd86c63dab4fa38e8e18.png",
     "static/media/jacket.png": "/yanki/static/media/jacket.80e37acf177c0db1b7d6.png",
     "static/media/white_park_back.png": "/yanki/static/media/white_park_back.a9383942f503c1b78a28.png",
     "static/media/blue__park.png": "/yanki/static/media/blue__park.2d1a450adcc6f08e98c5.png",
@@ -31,11 +31,11 @@
     "index.html": "/yanki/index.html",
     "static/media/clock.svg": "/yanki/static/media/clock.f505e7fb18d1aca9bb05a623eb3c561d.svg",
     "static/media/arrow_duwn.svg": "/yanki/static/media/arrow_duwn.7d5cbb5b166f93de6ec9bfb19fc5412c.svg",
-    "main.7c766250.css.map": "/yanki/static/css/main.7c766250.css.map",
-    "main.71896891.js.map": "/yanki/static/js/main.71896891.js.map"
+    "main.abae7f5d.css.map": "/yanki/static/css/main.abae7f5d.css.map",
+    "main.c8f19ba8.js.map": "/yanki/static/js/main.c8f19ba8.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c766250.css",
-    "static/js/main.71896891.js"
+    "static/css/main.abae7f5d.css",
+    "static/js/main.c8f19ba8.js"
   ]
 }
