@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yanki/static/css/main.abae7f5d.css",
-    "main.js": "/yanki/static/js/main.c8f19ba8.js",
+    "main.css": "/yanki/static/css/main.627a72ba.css",
+    "main.js": "/yanki/static/js/main.66454bd5.js",
     "static/media/cover_png_2.png": "/yanki/static/media/cover_png_2.b5a2bd01ade000a9cc2a.png",
     "static/media/cover_png_3.png": "/yanki/static/media/cover_png_3.f55344d498df32591a34.png",
     "static/media/cover_png_1.png": "/yanki/static/media/cover_png_1.1d511318b4e0e3c2ad75.png",
@@ -12,6 +12,7 @@
     "static/media/white_park_back.png": "/yanki/static/media/white_park_back.a9383942f503c1b78a28.png",
     "static/media/blue__park.png": "/yanki/static/media/blue__park.2d1a450adcc6f08e98c5.png",
     "static/media/blue__coat.png": "/yanki/static/media/blue__coat.5bceb76ec01d5c7c5c64.png",
+    "static/media/cream_coat.png": "/yanki/static/media/cream_coat.24ca490797f246441efc.png",
     "static/media/white_park.png": "/yanki/static/media/white_park.72088795d4cae28651e2.png",
     "static/media/blueCoatBack.webp": "/yanki/static/media/blueCoatBack.ad9e4ea0e5efffd86b7b.webp",
     "static/media/fur_back.webp": "/yanki/static/media/fur_back.0144ed0ef4787b2abd5a.webp",
@@ -25,17 +26,20 @@
     "static/media/money.svg": "/yanki/static/media/money.04985fbd0d2d4f7828b3edb00f17dc3e.svg",
     "static/media/telegram.svg": "/yanki/static/media/telegram.e0e7a64a97a92badbc4242d71b1b7c0e.svg",
     "static/media/heart.svg": "/yanki/static/media/heart.d7750ef24e6fd0e68aebd0e864601808.svg",
+    "static/media/delete.svg": "/yanki/static/media/delete.1362b6e45a902ebe73b4ec3007af6cdd.svg",
     "static/media/YANKI.svg": "/yanki/static/media/YANKI.85f61c930fef5f9e46226646e8577cc2.svg",
     "static/media/card.svg": "/yanki/static/media/card.30942214630bd0401d48acbdccfc0cde.svg",
     "static/media/blank.svg": "/yanki/static/media/blank.14b7e846ffe9a0ada6c2a4002d9df7c2.svg",
     "index.html": "/yanki/index.html",
     "static/media/clock.svg": "/yanki/static/media/clock.f505e7fb18d1aca9bb05a623eb3c561d.svg",
     "static/media/arrow_duwn.svg": "/yanki/static/media/arrow_duwn.7d5cbb5b166f93de6ec9bfb19fc5412c.svg",
-    "main.abae7f5d.css.map": "/yanki/static/css/main.abae7f5d.css.map",
-    "main.c8f19ba8.js.map": "/yanki/static/js/main.c8f19ba8.js.map"
+    "static/media/increment.svg": "/yanki/static/media/increment.a8a2402170c201da7b675a2b42553c62.svg",
+    "static/media/decrement.svg": "/yanki/static/media/decrement.e9f73bcebae9eacfe1d310179b2bae3e.svg",
+    "main.627a72ba.css.map": "/yanki/static/css/main.627a72ba.css.map",
+    "main.66454bd5.js.map": "/yanki/static/js/main.66454bd5.js.map"
   },
   "entrypoints": [
-    "static/css/main.abae7f5d.css",
-    "static/js/main.c8f19ba8.js"
+    "static/css/main.627a72ba.css",
+    "static/js/main.66454bd5.js"
   ]
 }
