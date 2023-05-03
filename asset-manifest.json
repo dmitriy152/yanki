@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/yanki/static/css/main.033c3624.css",
-    "main.js": "/yanki/static/js/main.62f9ca01.js",
+    "main.css": "/yanki/static/css/main.ac70d53f.css",
+    "main.js": "/yanki/static/js/main.2ddcdca4.js",
     "static/media/cover_png_2.png": "/yanki/static/media/cover_png_2.b5a2bd01ade000a9cc2a.png",
     "static/media/cover_png_3.png": "/yanki/static/media/cover_png_3.f55344d498df32591a34.png",
     "static/media/cover_png_1.png": "/yanki/static/media/cover_png_1.1d511318b4e0e3c2ad75.png",
@@ -36,11 +36,11 @@
     "static/media/arrow_duwn.svg": "/yanki/static/media/arrow_duwn.7d5cbb5b166f93de6ec9bfb19fc5412c.svg",
     "static/media/increment.svg": "/yanki/static/media/increment.a8a2402170c201da7b675a2b42553c62.svg",
     "static/media/decrement.svg": "/yanki/static/media/decrement.e9f73bcebae9eacfe1d310179b2bae3e.svg",
-    "main.033c3624.css.map": "/yanki/static/css/main.033c3624.css.map",
-    "main.62f9ca01.js.map": "/yanki/static/js/main.62f9ca01.js.map"
+    "main.ac70d53f.css.map": "/yanki/static/css/main.ac70d53f.css.map",
+    "main.2ddcdca4.js.map": "/yanki/static/js/main.2ddcdca4.js.map"
   },
   "entrypoints": [
-    "static/css/main.033c3624.css",
-    "static/js/main.62f9ca01.js"
+    "static/css/main.ac70d53f.css",
+    "static/js/main.2ddcdca4.js"
   ]
 }
