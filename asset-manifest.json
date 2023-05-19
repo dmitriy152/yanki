@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yanki/static/css/main.46e7f108.css",
-    "main.js": "/yanki/static/js/main.47a8d2cb.js",
+    "main.js": "/yanki/static/js/main.dbf8f52c.js",
     "static/media/cover_png_2.png": "/yanki/static/media/cover_png_2.b5a2bd01ade000a9cc2a.png",
     "static/media/cover_png_3.png": "/yanki/static/media/cover_png_3.f55344d498df32591a34.png",
     "static/media/cover_png_1.png": "/yanki/static/media/cover_png_1.1d511318b4e0e3c2ad75.png",
@@ -32,10 +32,10 @@
     "static/media/increment.svg": "/yanki/static/media/increment.a8a2402170c201da7b675a2b42553c62.svg",
     "static/media/decrement.svg": "/yanki/static/media/decrement.e9f73bcebae9eacfe1d310179b2bae3e.svg",
     "main.46e7f108.css.map": "/yanki/static/css/main.46e7f108.css.map",
-    "main.47a8d2cb.js.map": "/yanki/static/js/main.47a8d2cb.js.map"
+    "main.dbf8f52c.js.map": "/yanki/static/js/main.dbf8f52c.js.map"
   },
   "entrypoints": [
     "static/css/main.46e7f108.css",
-    "static/js/main.47a8d2cb.js"
+    "static/js/main.dbf8f52c.js"
   ]
 }
